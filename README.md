@@ -1,2 +1,2 @@
 # FoodApp
-A FOOD APPLICATION WHERE YOU CAN SEARCH RECIPES BY NAMES, GET RANDOM RECIPES AND MEAL OF THE DAY WITH THEIR RECIPES.
+A Food Appliation where you can search recipes by names, get random recipes and meals of the day.
